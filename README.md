@@ -11,6 +11,7 @@ after this place TIMER.ASM in the TASM folder
 
 2) Luanch
 -Run DosBOX and write the following commands
+
 -mount N C:\TASM
 
 -TASM TIMER.ASM
