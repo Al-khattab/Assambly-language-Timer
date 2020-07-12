@@ -11,11 +11,14 @@ after this place TIMER.ASM in the TASM folder
 
 2) Luanch
 -Run DosBOX and write the following commands
+-mount N C:\TASM
 
-- mount N C:\TASM
-TASM TIMER.ASM
-TLINK TIMER.OBJ
-DEBUG TIMER.EXE
-G
+-TASM TIMER.ASM
+
+-TLINK TIMER.OBJ
+
+-DEBUG TIMER.EXE
+
+-G
 
 and this should start the program
