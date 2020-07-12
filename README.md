@@ -13,9 +13,9 @@ after this place TIMER.ASM in the TASM folder
 -Run DosBOX and write the following commands
 
 - mount N C:\TASM
--TASM TIMER.ASM
--TLINK TIMER.OBJ
--DEBUG TIMER.EXE
--G
+TASM TIMER.ASM
+TLINK TIMER.OBJ
+DEBUG TIMER.EXE
+G
 
 and this should start the program
