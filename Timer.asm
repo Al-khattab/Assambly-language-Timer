@@ -73,7 +73,7 @@ DISP   MACRO MES
 MSG1 DB '------------ TIMER SIMULATION ------------','$'
 MSG2 DB '----Instructions----','$'
 MSG3 DB 'Press S/s to Start Timer','$'
-MSG6 DB 'THANK YOU, GOOD BYE','$'
+MSG6 DB 'An hour has passed','$'
 MSG7 DB '00:00','$'
 ;-------------------------------------------------------------------
 .CODE
