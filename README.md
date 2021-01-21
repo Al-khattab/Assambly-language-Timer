@@ -9,7 +9,7 @@ To run the program follow the following steps
 
 after this place TIMER.ASM in the TASM folder
 
-2) Luanch
+2) Launch
 
 Run DosBOX and write the following commands
 
