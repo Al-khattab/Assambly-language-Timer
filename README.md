@@ -14,7 +14,7 @@ after this place TIMER.ASM in the TASM folder
 Run DosBOX and write the following commands
 
 -mount N C:\TASM
-
+-N:
 -TASM TIMER.ASM
 
 -TLINK TIMER.OBJ
